@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+    > header {
+        background-color: limegreen;
+        border: solid 1px red;
+    }
+}
+.w-keep {
+    max-width: 1366px;
+    margin: auto;
+}
